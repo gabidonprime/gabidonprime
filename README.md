@@ -23,7 +23,7 @@
 <h2 align="center" class="section-heading">🌐 My contributions </h2>
 <p> This section highlights my recent contributions! I know it's not as dense as I'd like it to be, but I have been valuing solid, steady progress over time rather than quick bursts of inspiration. If you'd like a quick peek at my personal website and start-up concept I have been working on recently, head over to my pinned repositories. </p>
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabidonprime&theme=github_dark" alt="Gabe's GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielpesquivel&theme=github_dark" alt="Gabe's GitHub Stats"/>
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
